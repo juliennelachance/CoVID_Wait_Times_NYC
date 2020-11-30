@@ -7,6 +7,8 @@ https://hhinternet.blob.core.windows.net/wait-times/testing-wait-times.pdf
 
 Additionally, the resulting CSV is provided. 
 
+--------------------------------------------------------------------------------------------------
+
 
 **Current CoVID-19 Testing Wait Time Plot**
 
