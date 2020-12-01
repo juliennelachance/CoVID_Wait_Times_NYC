@@ -1,4 +1,4 @@
-# CoVID_Wait_Times_NYC
+# CoVID-19 Testing Wait Times in NYC
 
 This repo contains code for tracking CoVID-19 Testing Wait Times at various locations in NYC. 
 
