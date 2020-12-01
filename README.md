@@ -10,6 +10,8 @@ Additionally, the resulting CSV is provided.
 --------------------------------------------------------------------------------------------------
 
 
-**Current CoVID-19 Testing Wait Time Plot**
+**Current CoVID-19 Testing Wait Time Plot.**
+
+Plot displays only those locations who have reported wait times. 
 
 ![Wait Time Plot](https://github.com/juliennelachance/CoVID_Wait_Times_NYC/blob/main/wait_times.jpg)
